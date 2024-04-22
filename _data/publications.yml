@@ -26,3 +26,11 @@ main:
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
     image: ./assets/img/teaser_example.png
+
+  - title: "Temporal decoupling graph convolutional network for skeleton-based gesture recognition"
+    authors: Jinfu Liu, Xinshun Wang,<strong>Can Wang</strong>, Yuan Gao, Mengyuan Liu
+    conference_short: IEEE
+    conference: IEEE Transactions on Multimedia，2023.
+    pdf: https://spj.science.org/doi/full/10.34133/cbsystems.0090
+    image: ./assets/img/teaser_example_2.png
+    notes: Early Accept
