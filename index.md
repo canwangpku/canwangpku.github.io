@@ -8,10 +8,10 @@ I am a Ph.D. student at ...
 
 ## Research Interests
 
-- **Computer Vision:** 
-- **Robotics:**
-- **3D Sensing：**
-- **3D Reconstruction：**
+- **Computer Vision** 
+- **Robotics**
+- **3D Sensing**
+- **3D Reconstruction**
 
 ## News
 
