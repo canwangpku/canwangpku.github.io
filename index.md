@@ -8,16 +8,18 @@ I am a Ph.D. student at ...
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** 
+- **Robotics:**
+- **3D Sensing：**
+- **3D Reconstruction：**
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
+- **[CVM 2024]** The 12th international conference of Computational Visual Media
+- **[ICIP 2014]** IEEE International Conference on Image Processing
+- **[ICIP 2013]** IEEE International Conference on Image Processing
+- **[ICASSP 2013]** IEEE International Conference on Acoustics, Speech and Signal Processing
+  
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
