@@ -13,7 +13,7 @@ I am a Ph.D. student at ...
 - **3D Sensing**
 - **3D Reconstruction**
 
-## News
+## Conference
 
 - **[CVM 2024]** The 12th international conference of Computational Visual Media
 - **[ICIP 2014]** IEEE International Conference on Image Processing
