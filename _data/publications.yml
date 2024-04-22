@@ -1,13 +1,13 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+  - title: ASMNet: Action and Style-Conditioned Motion Generative Network for 3D Human Motion Generation
+    authors: Zongying Li, Yong Wang, Xin Du,  <strong>Can Wang</strong>, Reinhard Koch, Mengyuan Liu
     conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    conference: Cyborg and Bionic Systems，2024.
+    pdf: https://spj.science.org/doi/full/10.34133/cbsystems.0090
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/page_01.png
     notes: Early Accept
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
