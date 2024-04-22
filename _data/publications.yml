@@ -2,7 +2,7 @@ main:
 
   - title: "ASMNet: Action and Style-Conditioned Motion Generative Network for 3D Human Motion Generation"
     authors: Zongying Li, Yong Wang, Xin Du,  <strong>Can Wang</strong>, Reinhard Koch, Mengyuan Liu
-    conference_short: MICCAI
+    conference_short: 
     conference: Cyborg and Bionic Systems，2024.
     pdf: https://spj.science.org/doi/full/10.34133/cbsystems.0090
     image: ./assets/img/teaser_example_2.png
@@ -10,7 +10,7 @@ main:
 
   - title: "Dynamic dense graph convolutional network for skeleton-based human motion prediction"
     authors: Xinshun Wang, Wanying Zhang, <strong>Can Wang</strong>, Yuan Gao, Mengyuan Liu
-    conference_short: CVPR
+    conference_short: 
     conference: IEEE Transactions on Image Processing,2023.
     pdf: https://arxiv.org/pdf/2311.17408.pdf
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -29,7 +29,7 @@ main:
 
   - title: "Temporal decoupling graph convolutional network for skeleton-based gesture recognition"
     authors: Jinfu Liu, Xinshun Wang,<strong>Can Wang</strong>, Yuan Gao, Mengyuan Liu
-    conference_short: IEEE
+    conference_short: 
     conference: IEEE Transactions on Multimedia，2023.
     pdf: https://spj.science.org/doi/full/10.34133/cbsystems.0090
     image: ./assets/img/teaser_example_2.png
