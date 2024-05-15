@@ -53,3 +53,10 @@ exclude:
   - LICENSE
   - minimal-light.gemspec
   - html_source_file/
+# Custom CSS
+style: |
+  body {
+    margin: 20px;
+    padding: 20px;
+  }
+
