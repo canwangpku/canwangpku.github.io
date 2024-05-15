@@ -201,7 +201,7 @@ blockquote {
 
 .publications ol.bibliography li .teaser { 
     border-radius: 8px; 
-    box-shadow: none; /* 去除阴影 */
+    box-shadow: none; 
     height: 123px; 
     width: 270px; 
     margin-top: 5px; 
