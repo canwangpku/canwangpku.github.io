@@ -22,8 +22,8 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
   </div>
   <div style="flex: 5;">
     <p>
-      <strong>2022-2024</strong><br>
-      基尔大学博士后
+      <strong>2022-2024 Kiel University</strong><br>
+      Postdoctoral fellow
     </p>
   </div>
 </div>
@@ -34,8 +34,8 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
   </div>
   <div style="flex: 5;">
     <p>
-      <strong>2018-now</strong><br>
-      技术合伙人兼董事
+      <strong>2018-now Link Robat</strong><br>
+      Technical Partner and Director
     </p>
   </div>
 </div>
@@ -46,8 +46,8 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
   </div>
   <div style="flex: 5;">
     <p>
-      <strong>2016-2020</strong><br>
-      中科院自动化所
+      <strong>2016-2020 Institute of Automation, Chinese Academy of Sciences（CASIA）</strong><br>
+      Assistant researcher, senior engineer
     </p>
   </div>
 </div>
@@ -58,8 +58,8 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
   </div>
   <div style="flex: 5;">
     <p>
-      <strong>2015-2016</strong><br>
-      腾讯深圳总部
+      <strong>2015-2016 Tencent </strong><br>
+      Researcher in basic research position
     </p>
   </div>
 </div>
