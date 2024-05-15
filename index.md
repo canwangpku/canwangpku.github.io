@@ -18,11 +18,11 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="https://example.com/university_logo.png" alt="University Logo" width="100">
+    <img src="/assets/img/1.png" alt="University Logo" width="100">
   </div>
   <div style="flex: 5;">
     <p>
-      <strong>2022-2024 Kiel University</strong><br>
+      <strong>2022-2024 </strong>     Kiel University<br>
       Postdoctoral fellow
     </p>
   </div>
@@ -34,7 +34,7 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
   </div>
   <div style="flex: 5;">
     <p>
-      <strong>2018-now Link Robat</strong><br>
+      <strong>2018-now </strong>     Linx Robot<br>
       Technical Partner and Director
     </p>
   </div>
@@ -46,7 +46,7 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
   </div>
   <div style="flex: 5;">
     <p>
-      <strong>2016-2020 Institute of Automation, Chinese Academy of Sciences（CASIA）</strong><br>
+      <strong>2016-2020 </strong>     Institute of Automation, Chinese Academy of Sciences（CASIA）<br>
       Assistant researcher, senior engineer
     </p>
   </div>
@@ -58,7 +58,7 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
   </div>
   <div style="flex: 5;">
     <p>
-      <strong>2015-2016 Tencent </strong><br>
+      <strong>2015-2016  </strong>     Tencent<br>
       Researcher in basic research position
     </p>
   </div>
