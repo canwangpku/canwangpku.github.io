@@ -173,14 +173,17 @@ papertitle {
 .image.avatar img {
     border-radius: 0; /* 将图片边框设置为直角 */
     width: 100%; /* 图片宽度占据父容器的100% */
-    height: auto; /* 自适应高度，保持宽高比不变 */
+    height: 100%; /* 图片高度占据父容器的100% */
+    object-fit: cover; /* 图片保持原始宽高比，同时填充整个容器 */
     padding: 0; /* 移除内边距 */
 }
 
 #header .image.avatar {
     margin: 0 0 1em 0;
-    width: 8.00em; /* 保持原始宽度 */
+    width: 100px; /* 这里保持和 .image.avatar 一致 */
+    height: 100px; /* 这里保持和 .image.avatar 一致 */
 }
+
 
 
 h3, h4, h5, h6 {
