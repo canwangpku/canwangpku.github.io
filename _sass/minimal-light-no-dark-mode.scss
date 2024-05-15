@@ -159,30 +159,29 @@ papertitle {
       width: 100%;
     }
 
-    .image.avatar {
-      border-radius: 0;
-      width: 100px; 
-      height: 100px; 
-    }
+   .image.avatar {
+    border-radius: 0;
+    width: 100px; 
+    height: 100px;
+    overflow: hidden; /* 隐藏溢出部分 */
+}
 
-      .image.avatar:before {
-        display: none;
-      }
+.image.avatar:before {
+    display: none; /* 如果有 ::before 伪元素，这里隐藏它 */
+}
 
-      .image.avatar img {
-        border-radius: 0;
-        width: 100%;
-        height: 100%; 
-        padding: 20px;
-        // border: 1px solid #ddd;
-        // padding: 3px;
-        // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
-      }
+.image.avatar img {
+    border-radius: 0; /* 将图片边框设置为直角 */
+    width: 100%; /* 图片宽度占据父容器的100% */
+    height: auto; /* 自适应高度，保持宽高比不变 */
+    padding: 0; /* 移除内边距 */
+}
 
-    #header .image.avatar {
-      margin: 0 0 1em 0;
-      width: 8.00em;
-    }
+#header .image.avatar {
+    margin: 0 0 1em 0;
+    width: 8.00em; /* 保持原始宽度 */
+}
+
 
 h3, h4, h5, h6 {
   font-weight: 600;
