@@ -161,8 +161,8 @@ papertitle {
 
    .image.avatar {
     border-radius: 0;
-    width: 100px; 
-    height: 100px;
+    width: 200px; 
+    height: 200px;
     overflow: hidden; /* 隐藏溢出部分 */
 }
 
@@ -181,12 +181,12 @@ papertitle {
 
 #header .image.avatar {
     margin: 0 0 1em 0;
-    width: 100px; /* 这里保持和 .image.avatar 一致 */
-    height: 100px; /* 这里保持和 .image.avatar 一致 */
+    width: 200px; /* 这里保持和 .image.avatar 一致 */
+    height: 200px; /* 这里保持和 .image.avatar 一致 */
 }
 
 .image.avatar:hover img {
-    transform: scale(1.2); /* 鼠标悬停时放大至原始尺寸的1.2倍 */
+    transform: scale(0.5); /* 鼠标悬停时放大至原始尺寸的1.2倍 */
 }
 
 h3, h4, h5, h6 {
