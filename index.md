@@ -24,7 +24,7 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
     <p>
       <strong>2022-2024&nbsp;&nbsp;&nbsp;&nbsp; Kiel University， Postdoctoral fellow </strong> <br>
       Study light field system calibration and light field reconstruction <br>
-      Laboratory home page: <a href="https://www.mip.informatik.uni-kiel.de/en/team/">https://www.mip.informatik.uni-kiel.de/en/team/</a>
+      Laboratory home page: <a href="https://www.mip.informatik.uni-kiel.de/en/team">https://www.mip.informatik.uni-kiel.de/en/team</a>
     </p>
   </div>
 </div>
