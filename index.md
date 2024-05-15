@@ -22,7 +22,7 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
   </div>
   <div style="flex: 5;">
     <p>
-      <strong>2022-2024&nbsp;&nbsp; </strong> Kiel University<br>
+      <strong>2022-2024&nbsp;&nbsp;&nbsp;&nbsp; </strong> Kiel University<br>
       Postdoctoral fellow
     </p>
   </div>
@@ -34,7 +34,7 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
   </div>
   <div style="flex: 5;">
     <p>
-      <strong>2018-now    </strong> Linx Robot<br>
+      <strong>2018-now&nbsp;&nbsp;&nbsp;&nbsp;    </strong> Linx Robot<br>
       Technical Partner and Director
     </p>
   </div>
@@ -46,7 +46,7 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
   </div>
   <div style="flex: 5;">
     <p>
-      <strong>2016-2020    </strong> Institute of Automation, Chinese Academy of Sciences（CASIA）<br>
+      <strong>2016-2020&nbsp;&nbsp;&nbsp;&nbsp;</strong> Institute of Automation, Chinese Academy of Sciences（CASIA）<br>
       Assistant researcher, senior engineer
     </p>
   </div>
@@ -58,7 +58,7 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
   </div>
   <div style="flex: 5;">
     <p>
-      <strong>2015-2016    </strong> Tencent<br>
+      <strong>2015-2016&nbsp;&nbsp;&nbsp;&nbsp;</strong> Tencent<br>
       Researcher in basic research position
     </p>
   </div>
