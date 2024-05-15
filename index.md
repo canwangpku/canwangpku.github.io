@@ -16,10 +16,54 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
 
 ## Experience
 
-- **2022-2024** 基尔大学博士后
-- **2018-now** 技术合伙人兼董事
-- **2016-2020** 中科院自动化所
-- **2015-2016** 腾讯深圳总部
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <img src="https://example.com/university_logo.png" alt="University Logo" width="100">
+  </div>
+  <div style="flex: 5;">
+    <p>
+      <strong>2022-2024</strong><br>
+      基尔大学博士后
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <img src="https://example.com/company_logo.png" alt="Company Logo" width="100">
+  </div>
+  <div style="flex: 5;">
+    <p>
+      <strong>2018-now</strong><br>
+      技术合伙人兼董事
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <img src="https://example.com/institute_logo.png" alt="Institute Logo" width="100">
+  </div>
+  <div style="flex: 5;">
+    <p>
+      <strong>2016-2020</strong><br>
+      中科院自动化所
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <img src="https://example.com/tencent_logo.png" alt="Tencent Logo" width="100">
+  </div>
+  <div style="flex: 5;">
+    <p>
+      <strong>2015-2016</strong><br>
+      腾讯深圳总部
+    </p>
+  </div>
+</div>
+
   
 {% include_relative _includes/publications.md %}
 
