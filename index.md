@@ -18,7 +18,7 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="https://example.com/university_logo.png" alt="University Logo" width="100">
+    <img src="/assets/img/1.png" alt="University Logo" width="100">
   </div>
   <div style="flex: 5;">
     <p>
