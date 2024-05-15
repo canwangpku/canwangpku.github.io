@@ -14,12 +14,12 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
 - **3D Sensing**
 - **3D Reconstruction**
 
-## Conference
+## Experience
 
-- **[CVM 2024]** The 12th international conference of Computational Visual Media
-- **[ICIP 2014]** IEEE International Conference on Image Processing
-- **[ICIP 2013]** IEEE International Conference on Image Processing
-- **[ICASSP 2013]** IEEE International Conference on Acoustics, Speech and Signal Processing
+- **2022-2024** 基尔大学博士后
+- **2018-now** 技术合伙人兼董事
+- **2016-2020** 中科院自动化所
+- **2015-2016** 腾讯深圳总部
   
 {% include_relative _includes/publications.md %}
 
