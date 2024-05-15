@@ -23,7 +23,8 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
   <div style="flex: 5;">
     <p>
       <strong>2022-2024&nbsp;&nbsp;&nbsp;&nbsp; Kiel University， Postdoctoral fellow </strong> <br>
-      Study light field system calibration and light field reconstruction
+      Study light field system calibration and light field reconstruction <br>
+      Laboratory home page: <a href="https://www.mip.informatik.uni-kiel.de/en/team/dr-can-wang">https://www.mip.informatik.uni-kiel.de/en/team/dr-can-wang</a>
     </p>
   </div>
 </div>
