@@ -34,7 +34,7 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
   </div>
   <div style="flex: 5;">
     <p>
-      <strong>2018-now&nbsp;&nbsp;&nbsp;&nbsp;    </strong> Linx Robot<br>
+      <strong>2018-now&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> Linx Robot<br>
       Technical Partner and Director
     </p>
   </div>
