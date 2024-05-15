@@ -49,8 +49,8 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
   </div>
   <div style="flex: 5;">
     <p>
-      <strong>2016-2020&nbsp;&nbsp;&nbsp;&nbsp;</strong> Institute of Automation, Chinese Academy of Sciences（CASIA）<br>
-      Assistant researcher, senior engineer
+      <strong>2016-2020&nbsp;&nbsp;&nbsp;&nbsp; Assistant researcher and senior engineer，Institute of Automation, Chinese Academy of Sciences（CASIA）</strong> <br>
+      Core founder of a specialized and sophisticated  AI+ security enterprises 
     </p>
   </div>
 </div>
@@ -61,8 +61,8 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
   </div>
   <div style="flex: 5;">
     <p>
-      <strong>2015-2016&nbsp;&nbsp;&nbsp;&nbsp;</strong> Tencent<br>
-      Researcher in basic research position
+      <strong>2015-2016&nbsp;&nbsp;&nbsp;&nbsp;Researcher in basic research position，Tencent</strong> <br>
+      Led the Tencent-Tsinghua Joint Laboratory and researched virtual reality panoramic video technology
     </p>
   </div>
 </div>
