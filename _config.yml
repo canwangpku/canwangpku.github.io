@@ -54,8 +54,7 @@ exclude:
   - minimal-light.gemspec
   - html_source_file/
 
-# Custom CSS
-style: /assets/css/custom.css
+
 
 
 
