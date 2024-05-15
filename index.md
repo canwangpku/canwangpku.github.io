@@ -30,7 +30,7 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="https://example.com/company_logo.png" alt="Company Logo" width="100">
+    <img src="assets/img/2.png" alt="Company Logo" width="100">
   </div>
   <div style="flex: 5;">
     <p>
@@ -42,7 +42,7 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="https://example.com/institute_logo.png" alt="Institute Logo" width="100">
+    <img src="assets/img/3.png" alt="Institute Logo" width="100">
   </div>
   <div style="flex: 5;">
     <p>
@@ -54,7 +54,7 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="https://example.com/tencent_logo.png" alt="Tencent Logo" width="100">
+    <img src="assets/img/4.png" alt="Tencent Logo" width="100">
   </div>
   <div style="flex: 5;">
     <p>
