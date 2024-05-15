@@ -9,10 +9,10 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
 
 ## Research Interests
 
-- **Computer Vision** 
-- **Robotics**
-- **3D Sensing**
-- **3D Reconstruction**
+- Computer Vision
+- Robotics
+- 3D Sensing
+- 3D Reconstruction
 
 ## Experience
 
