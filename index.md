@@ -22,7 +22,7 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
   </div>
   <div style="flex: 5;">
     <p>
-      <strong>2022-2024    </strong> Kiel University<br>
+      <strong>2022-2024&nbsp;&nbsp; </strong> Kiel University<br>
       Postdoctoral fellow
     </p>
   </div>
