@@ -22,9 +22,8 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
   </div>
   <div style="flex: 5;">
     <p>
-      <strong>2022-2024&nbsp;&nbsp;&nbsp;&nbsp; </strong> Kiel University<br>
-      Postdoctoral fellow
-      <em>Study light field system calibration and light field reconstruction</em>
+      <strong>2022-2024&nbsp;&nbsp;&nbsp;&nbsp; </strong> Kiel University， Postdoctoral fellow<br>
+      Study light field system calibration and light field reconstruction
     </p>
   </div>
 </div>
