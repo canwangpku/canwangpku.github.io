@@ -20,10 +20,9 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
   <div style="flex: 1;">
     <img src="/assets/img/1.png" alt="University Logo" width="100">
   </div>
-  <div style="flex: 1;">
+  <div style="flex: 5;">
     <p>
-      <strong>2022-2024</strong><br>
-      Kiel University， Postdoctoral fellow <br>
+      <strong>2022-2024</strong> &nbsp;&nbsp;&nbsp;&nbsp; <strong>Kiel University， Postdoctoral fellow</strong> <br>
       Study light field system calibration and light field reconstruction <br>
       Laboratory home page: <a href="https://www.mip.informatik.uni-kiel.de/en/team">https://www.mip.informatik.uni-kiel.de/en/team</a>
     </p>
@@ -34,10 +33,9 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
   <div style="flex: 1;">
     <img src="assets/img/2.png" alt="Company Logo" width="100">
   </div>
-  <div style="flex: 1;">
+  <div style="flex: 5;">
     <p>
-      <strong>2018-now</strong><br>
-      Technical Partner and Director，Linx Robot <br>
+      <strong>2018-now</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Technical Partner and Director，Linx Robot</strong> <br>
       ¹&nbsp;Lead China’s first multi-category, no prior robotic arm depalletizing system<br>
       ²&nbsp;Lead the new generation of domestically produced full range of 3D sensor software and hardware product lines<br>
       ³&nbsp;Lead China’s first 2.5D high-precision optical inspection system
@@ -49,10 +47,9 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
   <div style="flex: 1;">
     <img src="assets/img/3.png" alt="Institute Logo" width="100">
   </div>
-  <div style="flex: 1;">
+  <div style="flex: 5;">
     <p>
-      <strong>2016-2020</strong><br>
-      Assistant researcher and senior engineer，Institute of Automation, Chinese Academy of Sciences（CASIA） <br>
+      <strong>2016-2020</strong> &nbsp;&nbsp;&nbsp;&nbsp; <strong>Assistant researcher and senior engineer，Institute of Automation, Chinese Academy of Sciences（CASIA）</strong> <br>
       Core founder of a specialized and sophisticated  AI+ security enterprises 
     </p>
   </div>
@@ -62,10 +59,9 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
   <div style="flex: 1;">
     <img src="assets/img/4.png" alt="Tencent Logo" width="100">
   </div>
-  <div style="flex: 1;">
+  <div style="flex: 5;">
     <p>
-      <strong>2015-2016</strong><br>
-      Researcher in basic research position，Tencent <br>
+      <strong>2015-2016</strong> &nbsp;&nbsp;&nbsp;&nbsp; <strong>Researcher in basic research position，Tencent</strong> <br>
       Led the Tencent-Tsinghua Joint Laboratory and researched virtual reality panoramic video technology
     </p>
   </div>
