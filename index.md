@@ -36,9 +36,9 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
   <div style="flex: 5;">
     <p>
       <strong>2018-now</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Technical Partner and Director，Linx Robot</strong> <br>
-      ¹&nbsp;Lead China’s first multi-category, no prior robotic arm depalletizing system<br>
-      ²&nbsp;Lead the new generation of domestically produced full range of 3D sensor software and hardware product lines<br>
-      ³&nbsp;Lead China’s first 2.5D high-precision optical inspection system
+      Lead China’s first multi-category, no prior robotic arm depalletizing system<br>
+      Lead the new generation of domestically produced full range of 3D sensor software and hardware product lines<br>
+      Lead China’s first 2.5D high-precision optical inspection system
     </p>
   </div>
 </div>
