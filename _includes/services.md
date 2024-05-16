@@ -35,4 +35,3 @@
     <td>Can Wang, Ding Ding“A Linear Light Source Optical System and a Linear Laser Scanning Method”，China Patent（CN115236853B）</td>
   </tr>
 
-## Project
