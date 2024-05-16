@@ -14,7 +14,7 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
 - 3D Sensing
 - 3D Reconstruction
 
-## Experience
+## Education and Experience
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
