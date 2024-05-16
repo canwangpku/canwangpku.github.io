@@ -27,11 +27,14 @@
     <td><autocolor>2023</autocolor></td>
     <td>Ding Ding, Can Wang, Xiaochao You, Minglei Fu, Wen'an Zhang“Composite Non-Destructive Detection Method and System, Storage Medium for Complex Workpiece Sorting”，China Patent（CN116673232B）</td>
   </tr>
-    <tr>
+  <tr>
     <td><autocolor>2023</autocolor></td>
     <td>Ding Ding, Zhaorong Han, Can Wang, Runze Gao“Defect Detection Method, System, Device, and Medium Based on Photometric Stereo Vision”，China Patent（CN116559181B）</td>
   </tr>
-  <td><autocolor>2023</autocolor></td>
+  <tr> <!-- 这个是一个闭合标签，用于结束前面的<tr>标签 -->
+    <td><autocolor>2023</autocolor></td>
     <td>Can Wang, Ding Ding“A Linear Light Source Optical System and a Linear Laser Scanning Method”，China Patent（CN115236853B）</td>
   </tr>
+</table>
+
 
