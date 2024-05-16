@@ -11,7 +11,7 @@
 <h4 style="margin:0 10px 0;">Patent</h4>
 
 <ul style="margin:0 0 20px;">
-  <autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor><br>
+  <autocolor>2024    Xiao Chaoyou; Can Wang; Haozhou Liu; Minglei Fu; Wenan Zhang; Ding Ding“A non-destructive testing method, system, device and medium”，China Patent（CN117689664B）</autocolor><br>
   <autocolor>International Journal of Computer Vision (IJCV)</autocolor><br>
 </ul>
 
