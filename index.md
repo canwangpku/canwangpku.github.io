@@ -22,7 +22,7 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
   </div>
   <div style="flex: 5;">
     <p>
-      <span style="color: #0066FF;font-weight: bold;">2022-2024&nbsp;&nbsp;&nbsp;&nbsp; Kiel University， Postdoctoral fellow </span> <br>
+      <span style="color: #000000;font-weight: bold;">2022-2024&nbsp;&nbsp;&nbsp;&nbsp; Kiel University， Postdoctoral fellow </span> <br>
       Study light field system calibration and light field reconstruction <br>
       Laboratory home page: <a href="https://www.mip.informatik.uni-kiel.de/en/team">https://www.mip.informatik.uni-kiel.de/en/team</a>
     </p>
@@ -35,7 +35,7 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
   </div>
   <div style="flex: 5;">
     <p>
-      <span style="color: #0066FF;font-weight: bold;">2018-now&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technical Partner and Director，Linx Robot </span><br>
+      <span style="color: #000000;font-weight: bold;">2018-now&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technical Partner and Director，Linx Robot </span><br>
       Lead China’s first multi-category, no prior robotic arm depalletizing system<br>
       Lead the new generation of domestically produced full range of 3D sensor software and hardware product lines<br>
       Lead China’s first 2.5D high-precision optical inspection system
@@ -49,7 +49,7 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
   </div>
   <div style="flex: 5;">
     <p>
-       <span style="color: #0066FF;font-weight: bold;">2016-2020 &nbsp;&nbsp;&nbsp;&nbsp; Assistant researcher and senior engineer，Institute of Automation, Chinese Academy of Sciences（CASIA）</span> <br>
+       <span style="color: #000000;font-weight: bold;">2016-2020 &nbsp;&nbsp;&nbsp;&nbsp; Assistant researcher and senior engineer，Institute of Automation, Chinese Academy of Sciences（CASIA）</span> <br>
       Core founder of a specialized and sophisticated  AI+ security enterprises 
     </p>
   </div>
@@ -61,7 +61,7 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
   </div>
   <div style="flex: 5;">
     <p>
-      <span style="color: #0066FF;font-weight: bold;">2015-2016&nbsp;&nbsp;&nbsp;&nbsp; Researcher in basic research position，Tencent</span> <br>
+      <span style="color: #000000;font-weight: bold;">2015-2016&nbsp;&nbsp;&nbsp;&nbsp; Researcher in basic research position，Tencent</span> <br>
       Led the Tencent-Tsinghua Joint Laboratory and researched virtual reality panoramic video technology
     </p>
   </div>
