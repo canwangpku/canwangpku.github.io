@@ -7,7 +7,7 @@
   height:3.6rem;
   width:3.6rem;
   background-color:transparent;
-  color:#333333!important;
+  color:#000000!important;
   border-radius:100%;
   text-align:center;
   font-size:1.5rem;
@@ -160,7 +160,7 @@ papertitle {
     }
 
    .image.avatar {
-    border-radius: 0;
+    border-radius: 50%;
     width: 200px; 
     height: 200px;
     overflow: hidden; /* 隐藏溢出部分 */
@@ -171,7 +171,7 @@ papertitle {
 }
 
 .image.avatar img {
-    border-radius: 0; /* 将图片边框设置为直角 */
+    border-radius: 50%; /* 将图片边框设置为直角 */
     width: 100%; /* 图片宽度占据父容器的100% */
     height: 100%; /* 图片高度占据父容器的100% */
     object-fit: cover; /* 图片保持原始宽高比，同时填充整个容器 */
@@ -191,18 +191,18 @@ papertitle {
 
 h3, h4, h5, h6 {
   font-weight: 600;
-  color:#043361;
+  color:#000000;
   margin:0 0 20px;
 }
 
 h1 {
   font-weight: 500;
-  color:#043361;
+  color:#000000;
   margin:0 0 20px;
 }
 
 h2 {
-  color:#043361;
+  color:#000000;
   font-weight: 500;
   margin:2px 0px 15px;
   font-size: 157%;
@@ -217,16 +217,16 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:28px;
+  font-size:36px;
 }
 
 a {
-  color:#39c;
+  color:#0066FF;
   text-decoration:none;
 }
 
 a:hover {
-  color:#069;
+  color:#FF780F;
 }
 
 a small {
