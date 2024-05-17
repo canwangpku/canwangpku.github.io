@@ -6,7 +6,6 @@ main:
     conference: Cyborg and Bionic Systems，2024.
     pdf: https://spj.science.org/doi/full/10.34133/cbsystems.0090
     image: ./assets/img/page_01.png
-    notes: Early Accept
 
   - title: "Dynamic dense graph convolutional network for skeleton-based human motion prediction"
     authors: Xinshun Wang, Wanying Zhang, <strong>Can Wang</strong>, Yuan Gao, Mengyuan Liu
@@ -14,7 +13,6 @@ main:
     conference: IEEE Transactions on Image Processing,2023.
     pdf: https://arxiv.org/pdf/2311.17408.pdf
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
     image: ./assets/img/page_02.png
 
   - title: "Regress before construct: Regress autoencoder for point cloud self-supervised learning"
@@ -24,7 +22,6 @@ main:
     pdf: https://arxiv.org/pdf/2310.03670.pdf
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
     image: ./assets/img/page_03.png
 
   - title: "Temporal decoupling graph convolutional network for skeleton-based gesture recognition"
@@ -33,7 +30,6 @@ main:
     conference: IEEE Transactions on Multimedia，2023.
     pdf: https://spj.science.org/doi/full/10.34133/cbsystems.0090
     image: ./assets/img/page_04.png
-    notes: Early Accept
 
   - title: "FastFusion: Real-Time Indoor Scene Reconstruction with Fast Sensor Motion"
     authors: Zunjie Zhu, Zhefeng Xu, Ruolin Chen, Tingyu Wang,<strong>Can Wang</strong>, Chenggang Yan, Feng Xu
@@ -41,15 +37,13 @@ main:
     conference: Remote Sensing，2022.
     pdf: https://www.mdpi.com/2072-4292/14/15/3551
     image: ./assets/img/page_05.png
-    notes: Early Accept
 
   - title: "Scene-adaptive hierarchical data association and depth-invariant part-based appearance model for indoor multiple objects tracking"
     authors: Hong Liu, <strong>Can Wang</strong>, Yuan Gao
     conference_short: 
     conference: CAAI Transactions on Intelligence Technology,2016.
     pdf: https://www.sciencedirect.com/science/article/pii/S2468232216300658
-    image: ./assets/img/page_06.png
-    notes: Early Accept 
+    image: ./assets/img/page_06.png 
 
   - title: "Violence detection using oriented violent flows"
     authors: Yuan Gao, Hong Liu, Xiaohu Sun,<strong>Can Wang</strong>, Yi Liu
@@ -57,7 +51,6 @@ main:
     conference: Image and vision computing,2016.
     pdf: https://drive.google.com/file/d/1W6Hl08RxkWx7Q2LFO9gg0cb1j1WhZ4aN/view?pli=1
     image: ./assets/img/page_07_Violence.png
-    notes: Early Accept
 
   - title: "A new descriptor of gradients self-similarity for smile detection in unconstrained scenarios"
     authors: Yuan Gao, Hong Liu, Pingping Wu,<strong>Can Wang</strong>
@@ -65,7 +58,6 @@ main:
     conference: Neurocomputing,2016.
     pdf: https://drive.google.com/file/d/13WW3gE7a9TqW9ZCVIg6qho0hZpssQ08o/view
     image: ./assets/img/page_08_a new.png
-    notes: Early Accept
 
   - title: "A predictive model for narrow passage path planner by using support vector machine in changing environments"
     authors: Hong Liu, Fang Xiao, <strong>Can Wang</strong>
@@ -73,7 +65,6 @@ main:
     conference: IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>,2014.
     pdf: https://drive.google.com/file/d/1zzHEdLdMvyE3WiNmqVIMCLxHxBArkvaQ/view
     image: ./assets/img/page_09_A Predictive.png
-    notes: Early Accept
 
   - title: "Gender identification in unconstrained scenarios using self-similarity of gradients features"
     authors: Hong Liu, Yuan Gao, <strong>Can Wang</strong>
@@ -81,15 +72,13 @@ main:
     conference: IEEE International Conference on Image Processing <strong>(ICIP)</strong>,2014.
     pdf: https://projet.liris.cnrs.fr/imagine/pub/proceedings/ICIP-2014/Papers/1569911431.pdf
     image: ./assets/img/page_11_Gender.png
-    notes: Early Accept
 
   - title: "Contact-free and pose-invariant hand-biometric-based personal identification system using RGB and depth data"
     authors: <strong>Can Wang</strong>, Hong Liu, Xing Liu
     conference_short: 
     conference: Journal of Zhejiang University SCIENCE C,2014.
     pdf: https://robotics.pkusz.edu.cn/static/papers/JDXB-canwang.pdf
-    image: ./assets/img/page_12_Contact-free.png
-    notes: Early Accept  
+    image: ./assets/img/page_12_Contact-free.png 
 
   - title: "Scene-adaptive hierarchical data association for multiple objects tracking"
     authors: <strong>Can Wang</strong>, Hong Liu, Yuan Gao
@@ -97,7 +86,6 @@ main:
     conference: IEEE Signal Processing Letters,2014.
     pdf: https://robotics.pkusz.edu.cn/static/papers/SPL2014-wangcan2.pdf
     image: ./assets/img/page_13_Scene-Adaptive.png
-    notes: Early Accept 
 
   - title: "Depth motion detection—A novel RS-trigger temporal logic based method"
     authors: <strong>Can Wang</strong>, Hong Liu, Liqian Ma
@@ -105,7 +93,6 @@ main:
     conference: IEEE Signal Processing Letters,2014.
     pdf: http://charliememory.github.io/pdf/SPL14_Depth_Motion_Detection--A_Novel_RS-Trigger_Temporal_Logic_based_Method.pdf
     image: ./assets/img/page_14_Depth.png
-    notes: Early Accept 
 
   - title: "Maximally stable curvature regions for 3D hand tracking"
     authors: <strong>Can Wang</strong>, Hong Liu, Xing Liu
@@ -113,15 +100,13 @@ main:
     conference: IEEE International Conference on Image Processing <strong>(ICIP)</strong>,2013.
     pdf: https://robotics.pkusz.edu.cn/static/papers/ICIP2013-wangcan3.pdf
     image: ./assets/img/page_15_Maximally.png
-    notes: Early Accept
 
   - title: "Unusual events detection based on multi-dictionary sparse representation using Kinect"
     authors: <strong>Can Wang</strong>, Hong Liu
     conference_short: ICIP 
     conference: IEEE International Conference on Image Processing <strong>(ICIP)</strong>,2013.
     pdf: https://robotics.pkusz.edu.cn/static/papers/ICIP2013-wangcan2.pdf
-    image: ./assets/img/page_16_Unusual.png
-    notes: Early Accept  
+    image: ./assets/img/page_16_Unusual.png  
 
   - title: "Hierarchical data association and depth-invariant appearance model for indoor multiple objects tracking"
     authors: Hong Liu, <strong>Can Wang</strong>
@@ -129,7 +114,6 @@ main:
     conference: IEEE International Conference on Image Processing <strong>(ICIP)</strong>,2013.
     pdf: https://robotics.pkusz.edu.cn/static/papers/ICIP2013-wangcan1.pdf
     image: ./assets/img/page_17_Hierarchical.png
-    notes: Early Accept  
 
   - title: "Salient-motion-heuristic scheme for fast 3D optical flow estimation using RGB-D data"
     authors: <strong>Can Wang</strong>, Hong Liu
@@ -137,7 +121,6 @@ main:
     conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>,2013.
     pdf: https://robotics.pkusz.edu.cn/static/papers/ICASSP2013-wangcan.pdf
     image: ./assets/img/page_18_Salient.png
-    notes: Early Accept
 
 
 
