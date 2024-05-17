@@ -4,8 +4,46 @@ layout: homepage
 
 ## Can Wang 
 
-I am a Ph.D. in Computer Application Technology from <span style="color: #0066FF;font-weight: bold;">Peking University </span> and a postdoctoral fellow at <span style="color: #0066FF;font-weight: bold;">Kiel University</span> in Germany. I studied under Professor Reinhard Koch, the founder of the SFM method in the field of three-dimensional reconstruction of machine vision. He was the winner of the Maar Prize, the highest award in machine vision in 1998. In 2006, I served as a visiting scholar at <span style="color: #0066FF;font-weight: bold;">California State University (San Jose)</span> . I have collaborated with the  <span style="color: #0066FF;font-weight: bold;">China Academy of Space Technology </span> and participated in the visual reconstruction project of the lunar surface of the "Chang'e Project" lunar lander. I served as a deputy senior engineer at the Institute of Automation, <span style="color: #0066FF;font-weight: bold;">Chinese Academy of Sciences</span> , and in 2016, as the core founder, I participated in the creation of a specialized and innovative AI+ security company in Beijing. In 2018, as a <span style="color: #0066FF;font-weight: bold;"> technical partner</span>, I established a provincial-level specialized AI+ robot company in Zhejiang Province with a valuation of 1 billion within 4 years.
-I have published many papers in conferences and journals such as IEEE TIP, ACM MM, IEEE TMM, ICRA, ICASSP, SPL, etc., and have authorized more than 40 national invention patents.
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    .highlight {
+      color: #0066FF;
+      font-weight: bold;
+    }
+    .highlight.clicked {
+      color: red;
+    }
+  </style>
+</head>
+<body>
+  <p>
+    I am a Ph.D. in Computer Application Technology from 
+    <span class="highlight" onclick="this.classList.toggle('clicked')">Peking University</span> 
+    and a postdoctoral fellow at 
+    <span class="highlight" onclick="this.classList.toggle('clicked')">Kiel University</span> 
+    in Germany. I studied under Professor Reinhard Koch, the founder of the SFM method in the field of three-dimensional reconstruction of machine vision. He was the winner of the Maar Prize, the highest award in machine vision in 1998. In 2006, I served as a visiting scholar at 
+    <span class="highlight" onclick="this.classList.toggle('clicked')">California State University (San Jose)</span>. I have collaborated with the  
+    <span class="highlight" onclick="this.classList.toggle('clicked')">China Academy of Space Technology</span> 
+    and participated in the visual reconstruction project of the lunar surface of the "Chang'e Project" lunar lander. I served as a deputy senior engineer at the Institute of Automation, 
+    <span class="highlight" onclick="this.classList.toggle('clicked')">Chinese Academy of Sciences</span>, and in 2016, as the core founder, I participated in the creation of a specialized and innovative AI+ security company in Beijing. In 2018, as a 
+    <span class="highlight" onclick="this.classList.toggle('clicked')">technical partner</span>, I established a provincial-level specialized AI+ robot company in Zhejiang Province with a valuation of 1 billion within 4 years.
+    I have published many papers in conferences and journals such as IEEE TIP, ACM MM, IEEE TMM, ICRA, ICASSP, SPL, etc., and have authorized more than 40 national invention patents.
+  </p>
+  <script>
+    // This script adds a 'clicked' class to elements with the 'highlight' class on click.
+    document.querySelectorAll('.highlight').forEach(function(element) {
+      element.addEventListener('click', function() {
+        this.classList.toggle('clicked');
+      });
+    });
+  </script>
+</body>
+</html>
+
 
 ## Research Interests
 
