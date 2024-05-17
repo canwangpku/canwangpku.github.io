@@ -16,7 +16,7 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
 
 ## Education and Experience
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; padding-bottom: 20px;">
   <div style="flex: 1;">
     <img src="/assets/img/1.png" alt="University Logo" width="100">
   </div>
@@ -27,10 +27,9 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
       Laboratory home page: <a href="https://www.mip.informatik.uni-kiel.de/en/team" style="color: #0066FF;">https://www.mip.informatik.uni-kiel.de/en/team</a>
     </p>
 </div>
-
 </div>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; padding-bottom: 20px;">
   <div style="flex: 1;">
     <img src="assets/img/2.png" alt="Company Logo" width="100">
   </div>
@@ -44,7 +43,7 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
   </div>
 </div>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; padding-bottom: 20px;">
   <div style="flex: 1;">
     <img src="assets/img/3.png" alt="Institute Logo" width="100">
   </div>
@@ -56,7 +55,7 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
   </div>
 </div>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; padding-bottom: 20px;">
   <div style="flex: 1;">
     <img src="assets/img/4.png" alt="Tencent Logo" width="100">
   </div>
