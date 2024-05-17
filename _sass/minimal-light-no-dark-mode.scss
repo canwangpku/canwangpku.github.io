@@ -160,7 +160,7 @@ papertitle {
     }
 
    .image.avatar {
-    border-radius: 0;
+    border-radius: 50%;
     width: 200px; 
     height: 200px;
     overflow: hidden; /* 隐藏溢出部分 */
@@ -171,7 +171,7 @@ papertitle {
 }
 
 .image.avatar img {
-    border-radius: 0; /* 将图片边框设置为直角 */
+    border-radius: 50%; /* 将图片边框设置为直角 */
     width: 100%; /* 图片宽度占据父容器的100% */
     height: 100%; /* 图片高度占据父容器的100% */
     object-fit: cover; /* 图片保持原始宽高比，同时填充整个容器 */
