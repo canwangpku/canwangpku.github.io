@@ -65,7 +65,39 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
   </div>
 </div>
 
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; margin-right: 20px;">
+    <img src="/assets/img/5.png" alt="University Logo" width="100">
+  </div>
+  <div style="flex: 5;">
+    <p>
+      <span style="color: #000000;font-weight: bold;">2011-2016&nbsp;&nbsp;&nbsp;&nbsp; Doctor of Computer Applied Technology， Peking University </span> <br>
+      2009-2011&nbsp;&nbsp;&nbsp;&nbsp;Master of Electronic Science and Technology，Peking University <br>
+    </p>
+  </div>
+</div>
 
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; margin-right: 20px;">
+    <img src="/assets/img/6.png" alt="University Logo" width="100">
+  </div>
+  <div style="flex: 5;">
+    <p>
+      <span style="color: #000000;font-weight: bold;">2006-2007&nbsp;&nbsp;&nbsp;&nbsp; A visiting scholar， California State University (San Jose) </span> <br>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; margin-right: 20px;">
+    <img src="/assets/img/7.png" alt="University Logo" width="100">
+  </div>
+  <div style="flex: 5;">
+    <p>
+      <span style="color: #000000;font-weight: bold;">2005-2009&nbsp;&nbsp;&nbsp;&nbsp; Bachelor of Electronic Information Engineering， QingDao University </span> <br>
+    </p>
+  </div>
+</div>
 
   
 {% include_relative _includes/publications.md %}
