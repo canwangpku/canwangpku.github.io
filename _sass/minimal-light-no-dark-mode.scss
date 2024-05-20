@@ -1,3 +1,6 @@
+.title:hover {
+  color:#FF780F;
+}
 .pub-row {
   display: flex; 
   align-items: center;}
@@ -137,7 +140,7 @@ papertitle {
   }
 
   .image {
-    border-radius: 0.35em;
+    border-radius: none;
     border: 0;
     display: inline-block;
     position: relative;
@@ -148,7 +151,7 @@ papertitle {
       -webkit-transition: opacity 0.2s ease-in-out;
       -ms-transition: opacity 0.2s ease-in-out;
       transition: opacity 0.2s ease-in-out;
-      border-radius: 0.35em;
+      border-radius: none;
       content: '';
       display: block;
       height: 100%;
@@ -186,7 +189,7 @@ papertitle {
 }
 
 .image.avatar:hover img {
-    transform: scale(1); /* 鼠标悬停时放大至原始尺寸的1.2倍 */
+    transform: scale(1.2); /* 鼠标悬停时放大至原始尺寸的1.2倍 */
 }
 
 h3, h4, h5, h6 {
@@ -217,7 +220,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:36px;
+  font-size:38px;
 }
 
 a {
@@ -261,7 +264,7 @@ pre {
   max-width:500px;
   padding:8px 15px;
   background: #f8f8f8;
-  border-radius:5px;
+  border-radius:none;
   border:1px solid #e5e5e5;
   overflow-x: auto;
 }
@@ -306,7 +309,7 @@ header ul {
   height:40px;
   padding:0;
   background: #f4f4f4;
-  border-radius:5px;
+  border-radius:none;
   border:1px solid #e0e0e0;
   width:270px;
 }
