@@ -94,7 +94,6 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
 <div style="padding: 0 20px; text-align: left;">
   <p style="font-size: 20px; color: #0066FF; font-weight: bold; margin-bottom: 10px;">Zhejiang Province’s 2023 “Pioneer” and “Leading Goose” R&D Plan</p>
   <div style="margin-bottom: 20px;">Cooperation with the Czech Republic</div>
-  <div style="margin-bottom: 20px;">Advanced AI-based robotics of complex industrial component inspection and assembly and its demonstration applications</div>
   <div style="display: flex; justify-content: space-between;">
     <div style="flex-basis: 48%;">
       <img src="/assets/img/project 01.png" alt="Project 01" style="width: 100%; max-width: 100%; height: auto;">
