@@ -92,7 +92,7 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
 ## Projects
 
 <div style="padding: 0 20px; text-align: left;">
-  <p style="font-size: 20px; color: #0066FF; font-weight: bold; margin-bottom: 10px;">Zhejiang Province’s 2023 “Pioneer” and “Leading Goose” R&D Plan</p>
+  <p style="font-size: 18px; color: #0066FF; font-weight: bold; margin-bottom: 10px;">Zhejiang Province’s 2023 “Pioneer” and “Leading Goose” R&D Plan</p>
   Czech partner visited the company<br>
   <div style="display: flex; justify-content: space-between;">
     <div style="flex-basis: 48%; padding: 20px 0;">
@@ -105,7 +105,7 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
 </div>
 
 <div style="padding: 0 20px; text-align: left;">
-  <p style="font-size: 20px; color: #0066FF; font-weight: bold; margin-bottom: 10px;">Hangzhou’s 2022 AI Major Science and Technology Innovation Project</p>
+  <p style="font-size: 18px; color: #0066FF; font-weight: bold; margin-bottom: 10px;">Hangzhou’s 2022 AI Major Science and Technology Innovation Project</p>
   Intelligent warehousing and logistics<br>
   <div style="display: flex; justify-content: space-between;">
     <div style="flex-basis: 30%; padding: 20px 0;">
