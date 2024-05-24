@@ -91,27 +91,18 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
 
 ## Projects
 
-<div style="padding: 0 20px; display: flex; justify-content: space-between;">
-  <div style="flex-basis: 48%;">
-    <p style="font-size: 18px; text-align: left;">
-      <span style="color: #0066FF; font-weight: bold;">Zhejiang Province’s 2023 “Pioneer” R&D Plan</span>
-    </p>
-    <div style="text-align: center;">
+<div style="padding: 0 20px;">
+  <div style="display: flex; justify-content: space-between;">
+    <div style="flex-basis: 48%; text-align: center;">
+      <p style="font-size: 18px; color: #0066FF; font-weight: bold; margin-bottom: 10px;">Zhejiang Province’s 2023 “Pioneer” R&D Plan</p>
       <img src="/assets/img/project 01.png" alt="Project 01" style="width: 100%; max-width: 100%; height: auto;">
     </div>
-  </div>
-  <div style="flex-basis: 48%;">
-    <p style="font-size: 18px; text-align: left;">
-      <span style="color: #0066FF; font-weight: bold;">Zhejiang Province’s 2023 “Leading Goose” R&D Plan</span>
-    </p>
-    <div style="text-align: center;">
+    <div style="flex-basis: 48%; text-align: center;">
+      <p style="font-size: 18px; color: #0066FF; font-weight: bold; margin-bottom: 10px;">Zhejiang Province’s 2023 “Leading Goose” R&D Plan</p>
       <img src="/assets/img/project 02.png" alt="Project 02" style="width: 100%; max-width: 100%; height: auto;">
     </div>
   </div>
 </div>
-
-
-
 
 
 
