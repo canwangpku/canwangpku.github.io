@@ -106,7 +106,7 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
 
 <div style="padding: 0 20px; text-align: left;">
   <p style="font-size: 20px; color: #0066FF; font-weight: bold; margin-bottom: 10px;">Hangzhou‘s 2022 AI Major Science and Technology Innovation Project</p>
-  3D Visual Intelligent Picking and Stacking System for Warehousing and Logistics Applications<br>
+  Intelligent warehousing and logistics<br>
   <div style="display: flex; justify-content: space-between;">
     <div style="flex-basis: 30%; padding: 20px 0;">
       <video controls style="width: 100%; max-width: 100%; height: auto;">
