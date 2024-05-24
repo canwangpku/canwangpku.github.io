@@ -84,20 +84,28 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
   <div style="flex: 5;">
     <p>
       <span style="color: #000000;font-weight: bold;">2006-2007&nbsp;&nbsp;&nbsp;&nbsp; A visiting scholar， California State University (San Jose) </span> <br>
+      2005-2009&nbsp;&nbsp;&nbsp;&nbsp; Bachelor of Electronic Information Engineering， QingDao University<br>
     </p>
   </div>
 </div>
 
+## Projects
+
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1; margin-right: 20px;">
-    <img src="/assets/img/7.png" alt="University Logo" width="100">
-  </div>
   <div style="flex: 5;">
-    <p>
-      <span style="color: #000000;font-weight: bold;">2005-2009&nbsp;&nbsp;&nbsp;&nbsp; Bachelor of Electronic Information Engineering， QingDao University </span> <br>
+    <p style="font-size: 18px;">
+      <span style="color: #0066FF;font-weight: bold;">Zhejiang Province’s 2023 “Pioneer” and “Leading Goose” R&D Plan</span> <br>
+      Advanced AI-based robotics of complex industrial component inspection and assembly and its demonstration applications <br>
     </p>
   </div>
 </div>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; margin-right: 20px;">
+    <img src="/assets/img/project 01.png" alt="University Logo" width="100">
+  </div>
+</div>
+
+
 
   
 {% include_relative _includes/publications.md %}
