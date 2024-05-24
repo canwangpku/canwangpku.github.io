@@ -92,7 +92,6 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
 ## Projects
 
 **2023 “Pioneer” and “Leading Goose” R&D Plan，Zhejiang Province**  
-China and Czech  
 Advanced AI-based robotics of complex industrial component inspection and assembly and its demonstration applications
 
   
