@@ -91,18 +91,13 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
 
 ## Projects
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 5;">
-    <p style="font-size: 18px;">
-      <span style="color: #0066FF;font-weight: bold;">Zhejiang Province’s 2023 “Pioneer” and “Leading Goose” R&D Plan</span> <br>
-    </p>
-  </div>
+<div style="text-align: center;">
+  <p style="font-size: 18px;">
+    <span style="color: #0066FF; font-weight: bold;">Zhejiang Province’s 2023 “Pioneer” and “Leading Goose” R&D Plan</span> <br>
+  </p>
+  <img src="/assets/img/project 01.png" alt="Project photos" style="width: 100%; max-width: 800px; height: auto;">
 </div>
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; margin-right: 20px;">
-    <img src="/assets/img/project 01.png" alt="Project photos" width="100" style="margin-right: 0;">
-  </div>
-</div>
+
 
 
 
