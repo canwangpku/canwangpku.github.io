@@ -15,6 +15,13 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
   <link rel="stylesheet" href="./assets/css/style.css">
   <link rel="stylesheet" href="./assets/css/publications.css">
+
+  <!-- 引入jQuery和Slick Carousel的CSS和JS文件 -->
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css"/>
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css"/>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+
 </head>
 <body>
   <div class="wrapper">
@@ -41,8 +48,8 @@
         <ul>
           <li><a href="#about-me">About Me</a></li>
           <li><a href="#research-interests">Research Interests</a></li>
-          <li><a href="#news">News</a></li
-          <li><a href="#projects">News</a></li                            
+          <li><a href="#news">News</a></li>
+          <li><a href="#projects">Projects</a></li> <!-- 修复了一个链接错误 -->
           <li><a href="#publications">Publications</a></li>
           <li><a href="#services">Services</a></li>
         </ul>
@@ -50,6 +57,13 @@
       <!-- 导航栏结束 -->
     </header>
     <section>
+      <!-- Slick Carousel图片轮播组件 -->
+      <div class="carousel">
+        <img src="./assets/img/project 01.png" alt="Project 1">
+        <img src="./assets/img/project 02.png" alt="Project 2">
+        <img src="./assets/img/project 03.png" alt="Project 3">
+      </div>
+      <!-- 结束Slick Carousel图片轮播组件 -->
       <!-- 页面内容 -->
     </section>
     <footer></footer>
@@ -63,5 +77,19 @@
     ga('create', 'UA-111540567-4', 'auto');
     ga('send', 'pageview');
   </script>
+
+  <!-- 初始化Slick Carousel -->
+  <script>
+    $(document).ready(function(){
+      $('.carousel').slick({
+        autoplay: true, // 自动播放
+        autoplaySpeed: 2000, // 自动播放速度，单位毫秒
+        arrows: false, // 禁用左右箭头
+        dots: true // 显示小圆点导航
+      });
+    });
+  </script>
+  <!-- 结束初始化Slick Carousel -->
+
 </body>
 </html>
