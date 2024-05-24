@@ -88,6 +88,9 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
     </p>
   </div>
 </div>
+
+## Projects
+
   
 {% include_relative _includes/publications.md %}
 
