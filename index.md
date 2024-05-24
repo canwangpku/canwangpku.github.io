@@ -92,16 +92,17 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
 ## Projects
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1; margin-right: 20px;">
-    <img src="/assets/img/1.png" alt="University Logo" width="100">
-  </div>
   <div style="flex: 5;">
-    <p>
+    <p style="font-size: 18px;">
       <span style="color: #0066FF;font-weight: bold;">2023&nbsp;&nbsp;&nbsp;&nbsp; Zhejiang Province’s 2023 “Pioneer” and “Leading Goose” R&D Plan</span> <br>
       Advanced AI-based robotics of complex industrial component inspection and assembly and its demonstration applications <br>
     </p>
   </div>
+  <div style="flex: 1; margin-left: 20px;">
+    <img src="/assets/img/1.png" alt="University Logo" width="100">
+  </div>
 </div>
+
 
   
 {% include_relative _includes/publications.md %}
