@@ -97,7 +97,7 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
   </div>
   <div style="flex: 5;">
     <p>
-      <span style="color: #000000;font-weight: bold;">2023&nbsp;&nbsp;&nbsp;&nbsp; Zhejiang Province’s 2023 “Pioneer” and “Leading Goose” R&D Plan</span> <br>
+      <span style="color: #0066FF;font-weight: bold;">2023&nbsp;&nbsp;&nbsp;&nbsp; Zhejiang Province’s 2023 “Pioneer” and “Leading Goose” R&D Plan</span> <br>
       Advanced AI-based robotics of complex industrial component inspection and assembly and its demonstration applications <br>
     </p>
   </div>
