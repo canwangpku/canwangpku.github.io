@@ -101,7 +101,7 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
 </div>
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; margin-right: 20px;">
-    <img src="/assets/img/1.png" alt="Project photos" width="100" style="margin-right: 0;">
+    <img src="/assets/img/project 01.png" alt="Project photos" width="100" style="margin-right: 0;">
   </div>
 </div>
 
