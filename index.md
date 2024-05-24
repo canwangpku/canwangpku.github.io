@@ -83,7 +83,7 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
   </div>
   <div style="flex: 5;">
     <p>
-      <span style="color: #000000;font-weight: bold;">2006-2007&nbsp;&nbsp;&nbsp;&nbsp; A visiting scholar， California State University (San Jose) </span> <br>
+      <span style="color: #000000;font-weight: bold;">2006-2007&nbsp;&nbsp;&nbsp;&nbsp; A visiting scholar， California State University （San Jose） </span> <br>
       2005-2009&nbsp;&nbsp;&nbsp;&nbsp; Bachelor of Electronic Information Engineering， QingDao University<br>
     </p>
   </div>
