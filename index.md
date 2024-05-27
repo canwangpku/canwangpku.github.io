@@ -92,7 +92,7 @@ I have published many papers in conferences and journals such as IEEE TIP, ACM M
 ## Projects
 
 <div style="padding: 0 20px; text-align: left;">
-  <p style="font-size: 18px; color: #0066FF; font-weight: bold; margin-bottom: 10px;">Zhejiang Province Key R&D Plan</p>
+  <p style="font-size: 18px; color: #0066FF; font-weight: bold; margin-bottom: 10px;">Zhejiang Provincial Key Research and Development Plan</p>
   Czech partner visited the company<br>
   <div style="display: flex; justify-content: space-between;">
     <div style="flex-basis: 48%; padding: 20px 0;">
