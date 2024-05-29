@@ -47,7 +47,7 @@ I have published many papers in flagship conferences and journals such as IEEE T
   </div>
   <div style="flex: 5;">
     <p>
-       <span style="color: #000000;font-weight: bold;">2016-2020 &nbsp;&nbsp;&nbsp;&nbsp; Assistant researcher and senior engineer，Institute of Automation, Chinese Academy of Sciences（CASIA）</span> <br>
+       <span style="color: #000000;font-weight: bold;">2016-2020 &nbsp;&nbsp;&nbsp;&nbsp; Assistant researcher and senior engineer，Chinese Academy of Sciences Institute of Automation（CASIA）</span> <br>
       Core founder of a specialized and sophisticated  AI+ security enterprises 
     </p>
   </div>
