@@ -135,10 +135,10 @@ I have published many papers in flagship conferences and journals such as IEEE T
   As the Session Chair<br>
   <div style="display: flex; justify-content: space-between;">
     <div style="flex-basis: 48%; padding: 20px 0;">
-      <img src="/assets/img/WechatIMG502.png" alt="Project 01" style="width: 100%; max-width: 100%; height: auto;">
+      <img src="/assets/img/NZ01.png" alt="Project 01" style="width: 100%; max-width: 100%; height: auto;">
     </div>
     <div style="flex-basis: 48%; padding: 20px 0;">
-      <img src="/assets/img/pWechatIMG503.png" alt="Project 02" style="width: 100%; max-width: 100%; height: auto;">
+      <img src="/assets/img/NZ02.png" alt="Project 02" style="width: 100%; max-width: 100%; height: auto;">
     </div>
   </div>
 </div>
