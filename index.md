@@ -91,15 +91,17 @@ I have published many papers in flagship conferences and journals such as IEEE T
 
 ## Projects
 
+
 <div style="padding: 0 20px; text-align: left;">
   <p style="font-size: 18px; color: #0066FF; font-weight: bold; margin-bottom: 10px;">Zhejiang Provincial Key Research and Development Plan</p>
   Czech partner visited the company<br>
-  <div style="display: flex; justify-content: space-between;">
-    <div style="flex-basis: 48%; padding: 20px 0;">
+  <div style="display: block; text-align: center;">
+    <div style="flex-basis: 100%; padding: 20px 0;">
       <img src="/assets/img/project 01.png" alt="Project 01" style="width: 100%; max-width: 100%; height: auto;">
     </div>
   </div>
 </div>
+
 
 <div style="padding: 0 20px; text-align: left;">
   <p style="font-size: 18px; color: #0066FF; font-weight: bold; margin-bottom: 10px;">Hangzhou AI Major Science and Technology Innovation Project</p>
