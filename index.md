@@ -89,6 +89,19 @@ I have published many papers in flagship conferences and journals such as IEEE T
   </div>
 </div>
 
+
+## News
+
+<div style="padding: 0 20px; text-align: left;">
+  <p style="font-size: 18px; color: #0066FF; font-weight: bold; margin-bottom: 10px;">the 12th International Conference of Computational Visual Media</p>
+  As the Session Chair<br>
+    <div style="display: block; text-align: center;">
+    <div style="flex-basis: 48%; padding: 20px 0;">
+      <img src="/assets/img/NZ01.png" alt="Project 01" style="width: 100%; max-width: 100%; height: auto;">
+    </div>
+  </div>
+</div>
+
 ## Projects
 
 
@@ -128,17 +141,7 @@ I have published many papers in flagship conferences and journals such as IEEE T
   </div>
 </div>
 
-## News
 
-<div style="padding: 0 20px; text-align: left;">
-  <p style="font-size: 18px; color: #0066FF; font-weight: bold; margin-bottom: 10px;">the 12th International Conference of Computational Visual Media</p>
-  As the Session Chair<br>
-    <div style="display: block; text-align: center;">
-    <div style="flex-basis: 48%; padding: 20px 0;">
-      <img src="/assets/img/NZ01.png" alt="Project 01" style="width: 100%; max-width: 100%; height: auto;">
-    </div>
-  </div>
-</div>
 
 
 
