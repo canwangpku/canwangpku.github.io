@@ -33,7 +33,7 @@ I have published many papers in flagship conferences and journals such as IEEE T
   </div>
   <div style="flex: 5;">
     <p>
-      <span style="color: #000000;font-weight: bold;">2018-2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technical Partner and Director，Linx Robot </span><br>
+      <span style="color: #000000;font-weight: bold;">2020-2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technical Partner and Director，Linx Robot </span><br>
       Lead China’s first multi-category, no prior robotic arm depalletizing system<br>
       Lead the new generation of domestically produced full range of 3D sensor software and hardware product lines<br>
       Lead China’s first 2.5D high-precision optical inspection system
